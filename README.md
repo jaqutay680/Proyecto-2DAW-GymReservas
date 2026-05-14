@@ -4,8 +4,8 @@
 
 
 **Demo en producción:** [ieslamarisma.net/proyectos/2026/joseangelaquino/gym-reservas](https://ieslamarisma.net/proyectos/2026/joseangelaquino/gym-reservas)
+**Presentación:** [https://jaqutay680.github.io/Proyecto-2DAW-GymReservas](https://jaqutay680.github.io/Proyecto-2DAW-GymReservas)
 
-**Presentación:** [https://jaqutay680.github.io/Proyecto-2DAW-GymReservas/](https://jaqutay680.github.io/Proyecto-2DAW-GymReservas)
 ---
 
 ## Índice
