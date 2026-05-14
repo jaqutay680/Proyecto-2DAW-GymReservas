@@ -3,7 +3,7 @@
 > Plataforma web completa de gestión y reserva de clases para gimnasios, desarrollada como Trabajo de Fin de Grado del ciclo **DAW** (Desarrollo de Aplicaciones Web) en IES La Marisma — curso 2025/2026.
 
 **Demo en producción:** [ieslamarisma.net/proyectos/2026/joseangelaquino/gym-reservas](https://ieslamarisma.net/proyectos/2026/joseangelaquino/gym-reservas)
-
+**Presentación:** [https://jaqutay680.github.io/Proyecto-2DAW-GymReservas/](https://jaqutay680.github.io/Proyecto-2DAW-GymReservas/)
 ---
 
 ## Índice
